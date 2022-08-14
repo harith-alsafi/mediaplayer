@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/icons8-file-24.png</file>
+        <file>icons/icons8-pause-24.png</file>
+        <file>icons/icons8-play-24.png</file>
+        <file>icons/icons8-stop-24.png</file>
+        <file>icons/icon-sound.png</file>
+        <file>icons/icons8-edit-48.png</file>
+        <file>icons/icons8-file-48.png</file>
+        <file>icons/icons8-help-48.png</file>
+        <file>icons/icons8-video-48.png</file>
+        <file>icons/cross.png</file>
+        <file>icons/fullscreen.png</file>
+        <file>icons/backwards.png</file>
+        <file>icons/forwards.png</file>
+    </qresource>
+</RCC>

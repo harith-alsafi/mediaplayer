@@ -1,0 +1,98 @@
+0337d98c9c1ee202cb990aba44d58ad6d62f6f47 fixed the directory structure
+bd53c8e9f64dd2cf9475dc05d991ef17026ec250 participant forms and study data
+27225069c4243d945edc9470f00605a68936b883 fixed bug[1]: length isnt adjusted when new vid is added to collection// bug[2]: program crashes when playing one vid in collection only
+26eebf3caac37ca7290cd2ae7a0ba912608f2c88 added more shortcuts and finished documentation
+d03a5b79269e5e493164d0c5a38f49325b96fc44 adding shortcuts and modifying help
+bba5372641f876fcf5daba666b25a76c98302231 fixed the merge
+fa0dd99fa2075cfb6ec4a1164fe94ea2fdf742fb adjusted next and prev buttons
+3287f157d5adc3c5224c50ae14a3c93f2423d22c fullscreen tooltip added
+e057874e8f55f3f511d7856f19d9cd5f556b838d Icons update
+458488d9ddd507708d17f433351bcf5ed93c6202 Icons edited for stylesheet
+093a6f4a0418ab8efab37c7a5d7d35ffb61a2db8 started with help document
+8845caecd7ddcb061471d4942a0d86534367bdcb finished up the theming
+007e49796f832d6d9776d393c6599ca0a49c6b80 fixed icon in searchbox
+22383db78a82bfd6a6753326432dc854e48e171f Context menu added to collection videos.
+9458d5e543cb96bc58cd4c15e84940aa6c954785 Changed VideoButton to use enum for the Icon Type.
+cca459efe4cee751e666e73251fa9845dfb1ca3a Idomatic changes.
+274f5b90bd714754037559f322a39794ab4b786a Creating new collection from video from the right hand side now works.
+990a8d05185a06371693f76536a53b813bf50b3c Fixed remove right side bug
+f80d1f479b704b7dd3532f62bdb46761b253e046 fixed layout
+2912f11cfc5645b55164763a9e97d121fdcbfac0 trying to fix bug when removing vids from right side
+8f3b07a1b29d1148bc555d04dbaca39853576245 try to fix the merge
+1fbddaa84903288b44b10691151621683239508b made the map work
+69ff5f3cdeea09d4494a37f9882e7de530b15581 Fixed remove video on right side.
+a1bd0746a9868162137c30f21f4eb99c0d153b56 Combined the map and circle widgets
+7fd87907bca799828e4747623f84224c64ca2c71 Pushed for Sura
+19a49e57c84588b2e93c184d8d6f3581468e9342 Merge branch 'Cycle3' of gitlab.com:tom-milner/comp2811_coursework3 into Cycle3
+900de70950c8bbf58542032319f338c123d4caae Implemented add/remove to/from collection.
+23aa417976dfc3f5b1675e8aae4ff40d0d1ceed0 right side added functionality
+3fb457646fab96d532987d82f17ca3b03a90c82e changes to right side
+2eea056d403c8cfec62864b8fffcf22725980a86 Overlays complete.
+a99e7efb56a215a14cdd0c42325830a66ed4d9ca Merge branch 'Cycle3' of gitlab.com:tom-milner/comp2811_coursework3 into Cycle3
+50dae711082488191e1a66d838f605e90daebf5b right side signals added
+f2e3402f18fa282ea46c21f45760048ba814216c Added notes.
+f756db78c59dcedef8b829ef9fc731bfadd9066a Fixed layout for overlays.
+c8909fe63c419b3444eb261deef2fcd18d2d5b80 Started top menu and video overlays.
+66bc70091b8e49edf368a3a1ac423d9c9f99e5c4 Merge branch 'Cycle3' into Cycle2
+29d0db01da0083de6f6c493b46a235e67e1cee59 added icons + made CollectionDisplay movable
+81285261e97087f534e1791547229c0fda7c67dc fixed problem [1] from Cycle1
+37cb6c5d72a4afe8992e2fd77fc9f6ef6564c10a fixed problem [5,4,3,2,1] from Cycle1
+9d0e2642d8214b9b430fc72cc83252a1e5ecaa90 fixing layout + fixed a bug, in TagPromptDelete
+e85317a8f65d07269a874da5218481aafaa1dd39 Added video playing using double click [NOT FINAL VERSION YET]
+900e3c2da7d4594eeb3e3485b63153dfda7d87b4 fixed a bug on [CollectionDisplay] where it made the program crash
+e72ff70c508686440e1a6cc33290171414fec3f5 fixed merge and added [remove tag] feature
+3fb333d52f7d3b3b9cf8da220574a3765d2ef1df right side fully working 2.0
+5db3f8e0ffb2816b0b05672d195be859e66793eb merged
+cb3a29fc1423ea42f33b40ca7072b195b6c929dc video button changed
+3e6f7809cbd32faf38f1656bec297800bdfb35ba Added example of new pointer-based approach.
+577b6b3e9bb2551356855233bbdf452e7133d395 fixing merge conflict
+fb2f2a622e75de4c324e01227f9026800f00b06c Search bug fix.
+b6b2b8057888f47c09292ad1885059d2f7184c77 Added support for save and open buttons.
+9ec6f197379666bd4cdd7b11183e4899fccf7029 User file
+affe3be18fd2dae60d6a0e3e5d3206bff20ff402 Restructured Project. Moved main metadata to mainwindow.
+df9f54baa1a6ef3574a7f73647765ebb5b3499fb Adjusted VideoInfo to use pointers.
+5339245898a3b97f8a4dc75f4b94ebcb4293c9c9 Turns out .gitignore wasn't working - it it now.
+3718d7ed5f359765a03f5b6e6352bf72bd0b3f39 Turns out .gitignore wasn't working - it it now.
+7e572287da95f77c87e5bc5a455b77794bd4dbcc Merge branch 'right-side' into Cycle2
+309dc383c82599de783fa8f8303d7bda597de3b4 Simplified MainWindow UI components.
+5075957097b009ac82b5cb708a71514f3d0f1f24 Merge branch 'main' into Cycle2
+f538825ac1de6d84ab5c1bc9b67d2fd43385d957 Finally got .gitignore working!
+6f365b6cad2c5f5a4e942c041688c61e4db459de removed Player.pro.user
+52d2451a724b316229436e5fddde4054bb3e436a rightside files
+c58cfe1223a01db003bb6a51bb866f82acf8e4dd rightside first
+caef890a7862c084e98967bc71c08fbed65acad6 fixed merge
+26f76cec2f146d3a4c90cd082f6c29e13aa6422d made add location and add tag functionality
+b02cb4835ebef3080355327a5099c89211da6f60 Merge branch 'Cycle2' of gitlab.com:tom-milner/comp2811_coursework3 into Cycle2
+60938508f9478512920c4a2b924fa302c35cc582 Fixed resizing with left side
+d03f357f42be36ab6bef3de49f1fb33ecb3ed573 added readFolder and added thumbnail support for [Class::Video]
+d3240964cc246670ec94ae85b549dd6d4911be37 Bug fix and consistent formatting.
+b0f679b9331a9c1c6cec2a1806dcf97f42a3a06b right-side
+fae7d1c831641862dd1a3f15d8a4abd389b35a2c fixed merge issue
+fc37c39015033a73b80a11adcbabfd641c05df48 merging
+ee9ff5c665fd44235578e0cb06382e0bf0b28ead finished metadata
+75569919f19b48c6499582e48d4186a47e11436d Removed Player.pro.user.
+2cdc4e6661fb4a6412a5298bee91e3fb525a8dd5 Added search functionality.
+f7da8ff6c320252dd4eb01fa5e6dbb43bffedd55 Added macos menu bug fix.
+4b89e33062abf6e2a472f1b0d280deae9280c1be Merge branch 'Cycle1' of gitlab.com:tom-milner/comp2811_coursework3 into Cycle1
+93f211378cc5cb0a324b22af5f8d8a3a11190f3d Updated gitignore.
+6f3bd003a383a0f25ec05d4f9886764547918373 Fixed bug with loading files
+9bf60ef72a5ef2497146796f83d30e9f568bf9ab Merge branch 'main' into Cycle1
+46e29dc7d852bc0c12a10576fe55d0e6837e7f86 Cycle1 Tomeov 0.3
+5cea40485cc9b291bb5a85af976bbd6a5a67c944 Cycle1 Tomeov 0.2
+11c471c8e4d9af24b24ee0b5f8b250ffe43a791d Tomeo Cycle1 v0.1
+870cc1ee9c97c8f1afb8d7f252035e963eacb8db Merge branch 'Cycle1' of gitlab.com:tom-milner/comp2811_coursework3 into Cycle1
+d2355e5b8cc7350b75e0da1f62a4218661c138c0 Resizing issue fixed in mediaplayer UI
+81771f188f0b5679da7a4b2830917e605ab82274 New checkpoint - mediaplayer will now be our new base folder for development
+76747cc23cd8ac0440c20b9d7156a36d2e5849a1 Adding base mediaplayer code (designed on Qt designer)
+54222b719d79f11b620a5edb6ce9c21238971b2d Added cycle-1 left side
+21d81723995e5e48d6a3926d06d88af8c7a77e61 removed cycle-1 from main
+9c0811027b86e3c3424f78896f76437d20ed2e51 Cycle-1-left-side
+0413eb9855ff62066889824ec6bffebd2cc2336b Merge branch 'main' of gitlab.com:tom-milner/comp2811_coursework3
+40435597958c0b6b98a0d737ff61f9d9c78cf97b Removed user specific config.
+85a8fadd9dcf872bf442cc1847540ddeda9ae427 Cleaned up git setup.
+37699d5914bddffa15f7a75f9b407233f7f60e55 Delete videos.zip
+5e64268d008dd8c3c0b1ab0a607815ddb52aae3c Added videos.
+1db5612975a1edd4bc5cbd0f0ec724db13683bfc Adding summary of QT
+3abad8611b866bde347c06e56c656ca6eb377c44 Merge branch 'master' into 'main'
+c9778146a70484be191a25de1f0c697dfefcde56 Uploaded project.
+3f03a0bcc02164b2e9bd0a7ab1dc1bedfbcc92aa Initial commit
