@@ -2,7 +2,7 @@
 
 * [Overview](#overview)
 * [Usage](#usage)
-* [Key board shortcuts](#keyboard shortcuts)
+* [Key board shortcuts](#keyboard-shortcuts)
 
 # Overview
 * This software is targeted towards outdoor enthusiasts
@@ -53,32 +53,25 @@ home/c.MOV,home/c.png,00:00:11,london,club,party,fun
 # Usage 
 
 * Opening videos and collections 
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/654815518?h=e25c3c28a4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="vid-1.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Watch the video](https://img.youtube.com/vi/STuA3cx-154/maxresdefault.jpg)](https://youtu.be/STuA3cx-154)
 
 * Adding/removing videos from collection 
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/654816200?h=03454c51db&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="vid-2.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Watch the video](https://img.youtube.com/vi/6abx3m7bres/maxresdefault.jpg)](https://youtu.be/6abx3m7bres)
 
 * Adding/removing tags 
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/654816351?h=74839c8386&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="vid-3.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Watch the video](https://img.youtube.com/vi/RL7VXBIm8GE/maxresdefault.jpg)](https://youtu.be/RL7VXBIm8GE)
 
 * Adding/changing location and going through the map
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/654816576?h=5e92d73429&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="vid-4.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Watch the video](https://img.youtube.com/vi/Hz-vaPB32TE/maxresdefault.jpg)](https://youtu.be/Hz-vaPB32TE)
 
 * Seeking through videos 
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/654816634?h=e75079ff42&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="vid-5.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Watch the video](https://img.youtube.com/vi/K8tZo41-9S8/maxresdefault.jpg)](https://youtu.be/K8tZo41-9S8)
 
 * Searching through videos 
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/654816700?h=f47514f497&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="vid-6.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Watch the video](https://img.youtube.com/vi/u8UcSvAtW0Q/maxresdefault.jpg)](https://youtu.be/u8UcSvAtW0Q)
 
 * Sorting videos (ascend and descend) 
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/654816774?h=54fb177d31&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="vid-7.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Watch the video](https://img.youtube.com/vi/V6QKl09ayTE/maxresdefault.jpg)](https://youtu.be/V6QKl09ayTE)
 
 # Keyboard shortcuts 
 
